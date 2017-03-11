@@ -1,5 +1,8 @@
 _repo: The-Mayor-of-Casterbridge_143
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -14,6 +17,8 @@ description: Under the influence of rum furmity, Michael Henchard, a hay-trusser
   Elizabeth-Jane, to seek her legal husband. To their surprise, Henchard is now the
   Mayor of Casterbridge. The plot develops, and Fate contives for him to be punished
   for the recklessness of his younger days._______________
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/143#The-Mayor-of-Casterbridge
 gutenberg_issued: '2006-03-11'
 gutenberg_type: Text
 identifiers:
